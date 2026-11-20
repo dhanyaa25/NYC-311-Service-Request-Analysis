@@ -139,7 +139,6 @@ These observations identify categories worth further operational investigation b
 
 ```text
 DA-project-1/
-├── data/
 ├── sql/
 │   └── NYC311_SQL_Analysis.sql
 ├── powerbi/
